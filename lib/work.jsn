@@ -1,0 +1,27 @@
+{
+   "1" : {
+      "msg" : "UT ZEUYL ECWAL JMULQUTK MCCO, JUSS GSUTYCT LTVCMALA YRH VLRS",
+      "plain" : "sohcxbgermfalnidutw",
+      "cipher" : "ACEGHJKLMOQRSTUVWYZ"
+   },
+   "4" : {
+      "msg" : "KWGF MAKU APU KAKPB UPZWATBP WTWAKUP WZDF",
+      "plain" : "............",
+      "cipher" : "ABDFGKMPTUWZ"
+   },
+   "3" : {
+      "msg" : "YFRNZ XWSBCHYY HWI FAT XWHEY TUTWFWR ASLLQZT",
+      "plain" : "cwfriadmhugoevnslt",
+      "cipher" : "ABCEFHILNQRSTUWXYZ"
+   },
+   "2" : {
+      "msg" : "X.P. RQFLG LGDYIYR AFQQJHP FP BJQG UJJLP QGFIC ICYAF",
+      "plain" : "nmhfaewcodsrtgui",
+      "cipher" : "ABCDFGHIJLPQRUXY"
+   },
+   "5" : {
+      "msg" : "ZFFZTX NP TJZDUIW' TZD UIZGW FN WITMDRFQ MHDNZD",
+      "plain" : "rtdpehuonyiclska",
+      "cipher" : "DFGHIJMNPQRTUWXZ"
+   }
+}
